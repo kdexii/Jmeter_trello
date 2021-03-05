@@ -420,6 +420,10 @@
         <stringProp name="filename"></stringProp>
       </ResultCollector>
       <hashTree/>
+      <TestFragmentController guiclass="TestFragmentControllerGui" testclass="TestFragmentController" testname="Test Fragment" enabled="false">
+        <stringProp name="TestPlan.comments">test</stringProp>
+      </TestFragmentController>
+      <hashTree/>
     </hashTree>
   </hashTree>
 </jmeterTestPlan>
